@@ -4,6 +4,42 @@
   box-sizing: border-box;
 }
 
+/*status*/
 .status {
+  background-color: black;
+  color: white;
+  text-align: right;
+  padding: 12px;
+  padding-right: 20%;
+}
+
+.status-inline {
+  display: inline-block;
+}
+
+/*duelBox*/
+.duel-box {
+  text-align: center;
+}
+
+.warrior-box{
+  background-color: green;
 
 }
+
+.monster-box{
+  background-color: red;
+}
+
+.box{
+  margin: 5px;
+  padding: 12px;
+  width: 30%;
+  display: inline-block;
+  text-align: center;
+
+}
+
+/*actionButton*/
+
+/*dialogText*/
